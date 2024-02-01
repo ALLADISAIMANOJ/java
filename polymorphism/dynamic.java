@@ -15,7 +15,7 @@ class Z extends X {
         System.out.println("Inside Z's display method");
     }
 }
-
+//main method starts here
 public class DynamicDispatchExample {
     public static void main(String args[]) {
         X x = new X();
